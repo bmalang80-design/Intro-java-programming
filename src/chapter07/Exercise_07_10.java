@@ -2,7 +2,7 @@ package chapter07;
 
 import java.util.Scanner;
 
-public class exercise_07_10 {
+public class Exercise_07_10 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double[] numbers = new double[10];
