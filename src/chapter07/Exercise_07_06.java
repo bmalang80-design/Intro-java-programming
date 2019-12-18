@@ -1,6 +1,6 @@
 package chapter07;
 
-public class Exercise07_06 {
+public class Exercise_07_06 {
     public static void main(String[] args) {
         int[] primeNumbers = new int[50];
         int number = 2;

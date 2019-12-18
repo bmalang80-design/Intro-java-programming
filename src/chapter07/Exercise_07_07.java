@@ -1,6 +1,6 @@
 package chapter07;
 
-public class Excercise_07_07 {
+public class Exercise_07_07 {
     public static void main(String[] args) {
         int[] numbers = new int[10];
         int count = 0;
