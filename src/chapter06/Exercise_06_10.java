@@ -1,6 +1,6 @@
 package chapter06;
 
-public class Exercise_07_10 {
+public class Exercise_06_10 {
     public static void main(String[] args) {
         System.out.printf("%25s%n", "Prime Numbers");
         System.out.println();

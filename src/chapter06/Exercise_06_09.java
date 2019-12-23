@@ -1,6 +1,6 @@
 package chapter06;
 
-public class Exercise_07_09 {
+public class Exercise_06_09 {
     public static void main(String[] args) {
         System.out.printf("%-13s%-13s%-13s%-13s%-13s%n", "Feet", "Meters", "|", "Meters", "Feet");
         System.out.println("----------------------------------------------------------");
